@@ -66,7 +66,7 @@ Its as simple as adding the following to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-fastcontains = "1.0.0"
+fastcontains = "1.0.1"
 ```
 
 and then importing it in your code:
