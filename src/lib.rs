@@ -3,7 +3,7 @@
 /// # Examples
 ///
 /// ```
-/// use your_crate::fastcontains;
+/// use fastcontains::fastcontains;
 ///
 /// let haystack = "hello world";
 /// assert!(haystack.fast_contains("world"));
