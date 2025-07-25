@@ -3,6 +3,7 @@ name = "fastcontains"
 version = "1.0.0"
 edition = "2024"
 
+description = "fastcontains, the faster contains"
 repository = "https://github.com/Alleexxi/fastcontains"
 authors = ["viewmatrix"]
 readme = "readme.md"
