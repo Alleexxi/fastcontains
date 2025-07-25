@@ -72,5 +72,5 @@ fastcontains = "1.0.0"
 and then importing it in your code:
 
 ```rust
-use fastcontains::ConFast;
+use fastcontains::fastcontains;
 ```
