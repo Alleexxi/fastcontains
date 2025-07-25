@@ -1,0 +1,16 @@
+[package]
+name = "fastcontains"
+version = "1.0.0"
+edition = "2024"
+
+authors = ["viewmatrix"]
+readme = "readme.md"
+
+[dependencies]
+
+[dev-dependencies]
+criterion = { version = "0.5", features = ["html_reports"] }
+
+[[bench]]
+name = "contains"
+harness = false
